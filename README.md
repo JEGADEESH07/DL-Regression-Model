@@ -40,19 +40,8 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
 
-### Register Number:
-
-```python
-class Model(nn.Module):
-    def __init__(self, in_features, out_features):
-        super().__init__()
-        #Include your code here
-
-
-
-# Initialize the Model, Loss Function, and Optimizer
+```
 
 ```
 
@@ -61,8 +50,12 @@ Include screenshot of the generated data
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
+
+
+
 Best Fit line plot
-Include your plot here
+
+
 
 ### New Sample Data Prediction
 Include your sample input and output here
